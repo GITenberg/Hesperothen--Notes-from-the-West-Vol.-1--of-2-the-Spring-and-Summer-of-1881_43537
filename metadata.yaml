@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25635
     wikipedia: http://en.wikipedia.org/wiki/William_Howard_Russell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43537#Hesperothen--Notes-from-the-West-Vol.-1--of-2-the-Spring-and-Summer-of-1881
 gutenberg_issued: '2013-08-22'
 gutenberg_type: Text
 identifiers:
